@@ -1,0 +1,14 @@
+{
+	"name"        : "Img2Text",
+	"description" : "JPG & PNG Conversion to Text File.",
+	"author"      : "David Song <deokwons9004dev@gmail.com>",
+	"version"     : "1.0.0",
+	"private"     : true,
+	"dependencies": {
+		"get-pixels" : "3.3.0",
+		"image-type" : "2.1.0",
+		"async"      : "2.1.4",
+		"colors"     : "1.1.2",
+		"file-exists": "2.0.0"
+	}
+}
